@@ -1,7 +1,7 @@
 # Finger_Counter_using_OpenCV
 This program is used to count the number of fingers open of your hand using openCV
 
-packages required : cv2, cvzone, mediapipe, time
+packages required : cv2, mediapipe, time
 
 Follow these steps to get output:
 
