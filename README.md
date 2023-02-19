@@ -6,6 +6,7 @@ packages required : cv2, cvzone, mediapipe, time
 Follow these steps to get output:
 
 1.Install openCV packages using this command "pip install opencv-python".
+
 2.Install mediapipe package using this command "pip install mediapipe".
 
 3.Run this python program, it opens webcam.
