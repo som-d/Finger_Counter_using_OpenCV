@@ -1,7 +1,25 @@
 # Finger_Counter_using_OpenCV
-This program is used to count the number of fingers open of your hand using openCV
 
-packages required : cv2, mediapipe, time
+This program is used to count the number of fingers open in your hand using openCV
+
+packages required : 
+
+## Prerequisits and Installation
+
+* Python 2.7
+
+* OpenCV
+```
+pip install opencv-python
+```
+* mediapipe
+```
+pip install mediapipe
+```
+* time
+```
+pip install time
+```
 
 Follow these steps to get output:
 
