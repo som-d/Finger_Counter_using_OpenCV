@@ -21,7 +21,7 @@ pip install mediapipe
 pip install time
 ```
 
-Follow these steps to get output:
+## Follow these steps to get output:
 
 1.Install openCV packages using this command "pip install opencv-python".
 
